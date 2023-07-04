@@ -1,1 +1,0 @@
-Sitemap: /IMM-lab-repo/sitemap.xml
