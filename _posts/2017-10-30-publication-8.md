@@ -4,7 +4,7 @@ author: Im, H. Y., Chong, S. C., Sun, J., Steiner, T. G., Albohn, D. N., Adams, 
 tags:
   - fMRI
   - ensemble perception
-  - social 
+  - social vision
 published: 2017
 group: paper
 ---

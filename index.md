@@ -14,10 +14,11 @@ Our broad aim is to understand how we see and interact with the world around us.
 <br>
 We use magnetoencephalography (MEG) and functional neuroimaging (fMRI) to measure the human brain. We also use behavioural methods to measure human perceptual, cognitive, and motor capacities. Combining different techniques (mostly MEG+fMRI, but sometimes EEG+fNIRS to allow participants to make more active and less-constrained movements), we focus on the dynamic time courses of neural activities occurring in different parts of the brain.
 
+
 <!-- Section break -->
 {% include section.html %}
 
-## **Recent Highlights**
+## **Highlights**
 
 <!-- Research -->
 {% capture text %}
@@ -25,7 +26,7 @@ We use magnetoencephalography (MEG) and functional neuroimaging (fMRI) to measur
 {%
   include button.html
   link="Research"
-  text="Learn about IMM Lab's current research"
+  text="Learn about the IMM Lab's research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="blue-white"
@@ -38,6 +39,29 @@ We use magnetoencephalography (MEG) and functional neuroimaging (fMRI) to measur
   image="images/Fig_Research_Main-1.png"
   link="Research"
   title="Research"
+  text=text
+%}
+
+
+<!-- Publications -->
+{% capture text %}
+
+{%
+  include button.html
+  link="Publications"
+  text="Browse published papers"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="blue-white"
+%}
+  
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Fig_Publication_Main-1.png"
+  link="Publications"
+  title="Publications"
   text=text
 %}
 
@@ -63,28 +87,14 @@ We use magnetoencephalography (MEG) and functional neuroimaging (fMRI) to measur
   text=text
 %}
 
-
-<!-- Publications -->
-{% capture text %}
-
-{%
-  include button.html
-  link="Publications"
-  text="Browse published papers"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="blue-white"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/Fig_Publication_Main-1.png"
-  link="Publications"
-  title="Publications"
-  text=text
-%}
-
 <!-- Lab photo image -->
 ![lab-photo](/images/lab-group-photo-img1.jpg)
+
+
+<!--     nokogiri (1.13.10)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
+    nokogiri (1.13.10-arm64-darwin)
+      racc (~> 1.4)
+-->
+
