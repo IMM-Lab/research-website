@@ -81,7 +81,7 @@ We use magnetoencephalography (MEG) and functional neuroimaging (fMRI) to measur
 
 {%
   include feature.html
-  image="images/Fig-people-main-mosaic.jpg"
+  image="images/Fig-people-main-mosaic.png"
   link="People"
   title="People"
   text=text
