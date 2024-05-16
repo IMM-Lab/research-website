@@ -12,6 +12,8 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: Lead" background="white" %}
 {% include list.html data="members" component="portrait" filters="role: Co-PI" background="white" %}
 
+{% include list.html data="members" component="portrait" filters="role: PD" background="white" %}
+
 {% include list.html data="members" component="portrait" filters="role: GA" background="white" %}
 
 {% include list.html data="members" component="portrait" filters="role: RA" background="white" %}
