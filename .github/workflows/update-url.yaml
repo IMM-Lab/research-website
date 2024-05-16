@@ -30,7 +30,7 @@ jobs:
           enablement: false
 
       - name: Checkout branch contents
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       # update link to site in readme
       - name: Update readme
