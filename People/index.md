@@ -15,7 +15,7 @@ nav:
 ## Graduate Students
 {% include list.html data="members" component="portrait" filters="role: GA" background="white" %}
 
-## Undergraduate Students
+## Research Assistants
 {% include list.html data="members" component="portrait" filters="role: RA" background="white" %}
 
 
