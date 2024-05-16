@@ -1,5 +1,35 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41598-023-46723-7
+  title: Americans weigh an attended emotion more than Koreans in overall mood judgments
+  authors:
+  - Gaeun Son
+  - Hee Yeon Im
+  - Daniel N. Albohn
+  - Kestas Kveraga
+  - Reginald B. Adams
+  - Jisoo Sun
+  - Sang Chul Chong
+  publisher: Scientific Reports
+  date: '2023-11-07'
+  link: https://doi.org/gs94m6
+  orcid: 0000-0001-9379-1347
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-023-41366-0
+  title: The effect of masks on the emotion perception of a facial crowd
+  authors:
+  - Jieun Cho
+  - Hee Yeon Im
+  - Young Jun Yoon
+  - Sung Jun Joo
+  - Sang Chul Chong
+  publisher: Scientific Reports
+  date: '2023-08-31'
+  link: https://doi.org/gs94m7
+  orcid: 0000-0001-9379-1347
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1152/jn.00463.2021
   title: Inconsistent attentional contexts impair relearning following gradual visuomotor
     adaptation
