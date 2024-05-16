@@ -1,7 +1,7 @@
 ---
 name: Yasir Ahmed
 image: images/yasir-people.jpg
-role: RA
+role: Al
 group: Research Assistant 
 description: Co-op Student yahmed19@student.ubc.ca
 links:
