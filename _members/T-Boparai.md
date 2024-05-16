@@ -1,11 +1,11 @@
 ---
 name: Tarini Boparai
-image: 
+image: images/Tarini-people.jpg
 role: RA
 group: Research Assistant  
-description: Research Assistant  (email)
+description: Research Assistant  tarinib7@gmail.com
 links:
-  email: 
+  email: tarinib7@gmail.com
 ---
 
 Tarini is a research assistant at the IMM Lab.
