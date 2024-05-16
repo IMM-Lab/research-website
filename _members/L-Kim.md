@@ -1,11 +1,11 @@
 ---
 name: Lina Kim
-image: 
+image: images/Lina-people.jpeg
 role: RA
 group: Research Assistant  
-description: Research Assistant  (email)
+description: Research Assistant  lnkim0914@gmail.com
 links:
-  email: 
+  email: lnkim0914@gmail.com
 ---
 
 Lina is a research assistant at the IMM Lab, majoring in Psychology.
