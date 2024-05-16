@@ -1,7 +1,7 @@
 ---
 name: Ahad Zafar
 image: images/ahad-people.jpeg
-role: RA
+role: Al
 description: Research Technician ahadz@student.ubc.ca
 links:
   email: ahadz@student.ubc.ca
