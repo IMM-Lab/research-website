@@ -25,13 +25,13 @@ jobs:
         uses: crazy-max/ghaction-dump-context@v1
 
       - name: Checkout base branch contents
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: main
           path: base
 
       - name: Checkout pr branch contents
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           path: pr
 
@@ -89,7 +89,7 @@ jobs:
         uses: crazy-max/ghaction-dump-context@v1
 
       - name: Checkout branch contents
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install packages
         run: yarn add yaml semver
