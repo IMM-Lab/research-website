@@ -8,12 +8,14 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}People
 
 <!-- # Current Lab Members -->
-## Meet the Team
+## Directors
 {% include list.html data="members" component="portrait" filters="role: Lead" background="white" %}
 {% include list.html data="members" component="portrait" filters="role: Co-PI" background="white" %}
 
+## Graduate Students
 {% include list.html data="members" component="portrait" filters="role: GA" background="white" %}
 
+## Undergraduate Students
 {% include list.html data="members" component="portrait" filters="role: RA" background="white" %}
 
 
