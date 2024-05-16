@@ -1,5 +1,5 @@
 ---
-name: Hayoung Cho
+name: Hayoung Choo
 image: images/hayoung-people.png
 role: RA
 group: Research Assistant  
