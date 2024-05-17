@@ -16,6 +16,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: GA" background="white" %}
 
 ## Research Assistants
+{% include list.html data="members" component="portrait" filters="role: RA, group: Co-op Student" background="white" %}
 {% include list.html data="members" component="portrait" filters="role: RA" background="white" %}
 
 
