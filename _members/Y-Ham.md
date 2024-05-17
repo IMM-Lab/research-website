@@ -2,7 +2,7 @@
 name: Yoonsoo Ham
 image: images/Yoonsoo1-people.jpeg
 role: RA
-group: Research Assistant  
+group: Work-Learn Student 
 description: Work-Learn Student  yoonsooham4@icloud.com
 links:
   email: yoonsooham4@icloud.com
