@@ -2,7 +2,7 @@
 name: Max Garson
 image: images/max-people.jpeg
 role: RA
-group: Research Assistant  
+group: Work-Learn Student  
 description: Work-Learn Student  maxgarson@gmail.com
 links:
   email: maxgarson@gmail.com
