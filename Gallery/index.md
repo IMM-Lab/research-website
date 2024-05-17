@@ -8,6 +8,23 @@ nav:
 {% include section.html %}
 # Conferences and Posters
 
+## UBC Neuroscience Undergraduate Research Conference (NURC)
+
+{% capture col1 %}
+
+{% include figure.html image="images/yoonsoo-nurc2024.jpeg" caption="Yoonsoo at NURC (2024), UBC" %}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{% include figure.html image="images/maxadi-nurc2024.jpeg" caption="Max and Adi at NURC (2024), UBC" %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
+
 ## Vision Sciences Society (VSS)
 {% capture col1 %}
 
