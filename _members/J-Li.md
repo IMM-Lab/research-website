@@ -1,3 +1,4 @@
+---
 name: Jolin Li
 image: images/jolin-people.jpeg
 role: RA
