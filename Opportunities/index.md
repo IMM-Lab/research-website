@@ -19,7 +19,7 @@ to see how you can impact our lab!
 <!-- Adult research study-->
 {% capture col1 %}
 
-{% include figure.html image="images/Fig1-Opportunity-Poster.png" caption="Adult vision research study"%}
+{% include figure.html image="images/VML_1945H.png" caption="Adult vision research study"%}
 
 {% endcapture %}
 
@@ -38,17 +38,23 @@ to see how you can impact our lab!
 
 {% capture col1 %}
 
-{% include figure.html image="images/Fig2-Opportunity-PosterAd.png" caption="Children MEG/MRI research study" %}
+{% include figure.html image="images/VML_611H.png" caption="Children MEG/MRI research study" %}
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{% include figure.html image="images/Fig3-Opportunity-PosterAd.png" caption="Children MEG/MRI research study" %}
+{% include figure.html image="images/VML_918H.png" caption="Children MEG/MRI research study" %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2%}
+{% capture col3 %}
+
+{% include figure.html image="images/VML_918A.png" caption="Children MEG/MRI research study" %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3%}
 
 <br>
 
