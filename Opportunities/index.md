@@ -54,7 +54,7 @@ to see how you can impact our lab!
 
 {% include section.html %}
 ## **Open Positions**
-<!-- {% include list.html data="posts" component="post-excerpt" filters="group: PD-job1"%} -->
-<!-- {% include list.html data="posts" component="post-excerpt" filters="group: PD-job2"%} -->
-<!-- {% include list.html data="posts" component="post-excerpt" filters="group: RA-job"%} -->
+{% include list.html data="posts" component="post-excerpt" filters="group: PD-job1" display: none%}
+{% include list.html data="posts" component="post-excerpt" filters="group: PD-job2" display: none%}
+{% include list.html data="posts" component="post-excerpt" filters="group: RA-job" display: none%}
 
