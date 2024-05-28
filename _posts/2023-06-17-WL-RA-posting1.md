@@ -44,5 +44,9 @@ Must be able to work up to 10 hours/week during weekdays (between 9 am and 5 pm)
 **Experience Level:** Current Students in a UBC Undergraduate Program, Current Students in a Master's Program
 
 
+On the opportunities page:
+{% include list.html data="posts" component="post-excerpt" filters="group: RA-job"%}
+
+
 
 
