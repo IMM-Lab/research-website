@@ -5,7 +5,7 @@ nav:
   tooltip: Research participants and open positions 
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Opportunities
+# {% include icon.html icon="fa-solid fa-brain" %}Opportunities
 
 Are you interested in connecting with our research lab? Look through our opportunities 
 to see how you can impact our lab!
