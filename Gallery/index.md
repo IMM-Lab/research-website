@@ -6,7 +6,7 @@ nav:
 ---
 
 {% include section.html %}
-# Conferences and Posters
+# {% include icon.html icon="fa-solid fa-person-chalkboard" %} Conferences and Posters
 
 ## UBC Neuroscience Undergraduate Research Conference (NURC)
 
@@ -79,7 +79,7 @@ nav:
 
 {% include cols.html col1=col1 col2=col2 col3=col3%}
 
-# Group photos
+# {% include icon.html icon="fa-solid fa-people-group" %} Group photos
 
 {% capture col1 %}
 
