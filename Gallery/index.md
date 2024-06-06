@@ -79,7 +79,28 @@ nav:
 
 {% include cols.html col1=col1 col2=col2 col3=col3%}
 
-## Group photos
+# Group photos
+
+{% capture col1 %}
+
+{% include figure.html image="images/529-1.jpg" %}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{% include figure.html image="images/529-2.jpg" caption="Pictures from our lab boardgame social! (2024)" %}
+
+{% endcapture %}
+
+{% capture col3 %}
+
+{% include figure.html image="images/529-3.jpg" %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3%}
+
 {% capture col1 %}
 {% include figure.html image="images/lab-group-photo-img1.jpg" caption="A lab photo on a sunny day at the BC Children's Hospital Research Institute! (2023)" %}
 {% endcapture %}
