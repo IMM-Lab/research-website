@@ -6,7 +6,7 @@
 
 <div class="portrait-wrapper">
   <a
-    {% if member.role == 'GA' or member.role == 'Lead' or member.role == 'Co-PI' or member.role == PD %}
+    {% if member.role == 'GA' or member.role == 'Lead' or member.role == 'Co-PI' or member.role == 'PD' %}
       href="{{ member.url | relative_url }}"
     {% endif %}
     class="portrait"
