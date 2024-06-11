@@ -13,7 +13,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: Co-PI" background="white" %}
 
 ## Postdoctoral Researchers
-{% include list.html data="members" component="portrait" filters="role: GA" background="white" %}
+{% include list.html data="members" component="portrait" filters="role: PD" background="white" %}
 
 ## Graduate Students
 {% include list.html data="members" component="portrait" filters="role: GA" background="white" %}
