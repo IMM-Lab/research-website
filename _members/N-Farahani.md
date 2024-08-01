@@ -1,6 +1,6 @@
 ---
 name: Navid Imani Farahani
-image: images/icon.png
+image: images/Navid-people.jpeg
 role: RA
 group: Research Assistant
 description: Programmer  navid9800@gmail.com
