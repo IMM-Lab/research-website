@@ -20,14 +20,14 @@ I am interested in neurocognitive processes underlying dynamic interactions betw
 <br> <br>
 
 Get to know Dr. Im more here!
-<div class="link-preview">
+<div style="display: flex; align-items: center; border: 1px solid #ddd; padding: 10px; max-width: 600px; box-shadow: 0px 2px 5px rgba(0,0,0,0.1);">
+  <img src="https://psych.ubc.ca/wp-content/uploads/sites/2/2024/08/Hee-Yeon-Im-300x169.png" alt="Article Image" style="width: 100px; height: 100px; object-fit: cover; margin-right: 20px;"/>
+  <div>
     <a href="https://psych.ubc.ca/news/heeyeonim-qa/" target="_blank" style="text-decoration: none; color: inherit;">
-        <div style="border: 1px solid #ccc; padding: 10px; max-width: 400px;">
-            <img src="https://psych.ubc.ca/wp-content/uploads/sites/2/2024/08/Hee-Yeon-Im-300x169.png" alt="Dr.Im Q&A" style="width: 20%; height: auto;"/>
-            <h3 style="margin: 10px 0;">UBC Psychology welcomes cognitive scientist Dr. Hee-Yeon Im</h3>
-            <span style="font-size: 12px; color: #555;">psych.ubc.ca</span>
-        </div>
+      <h3 style="margin: 0; font-size: 18px;">UBC Psychology welcomes cognitive scientist Dr. Hee-Yeon Im</h3>
     </a>
+    <p style="margin: 5px 0 0; font-size: 14px; color: #555;">psych.ubc.ca</p>
+  </div>
 </div>
 
 
