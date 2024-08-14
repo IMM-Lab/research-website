@@ -19,6 +19,9 @@ links:
 I am interested in neurocognitive processes underlying dynamic interactions between human visual perception and goal-directed action. Sometimes, visual perception and action can be arbitrarily linked based on what we have learned over and over again (e.g., seeing “red” from a traffic light, we “stop” and seeing “green,” we “keep moving”). However, some functional links between perception and action can be somewhat implicit (and automatic) and hard-wired. For example, seeing a group of people with angry faces is naturally associated with avoidance actions, whereas people with happy, friendly faces tend to motivate approach actions. My research investigates how different brain parts coordinate countless connections between perception and action to mediate safe and timely motor movements in various physical and social contexts. I am also interested in neurocognitive bases of deficient perception-action links in impaired visuomotor coordination skills (as observed in many visual or motor deficits) or maladaptive social behaviours (e.g., excessive avoidance behaviour, which is a hallmark of many emotional disorders). I use behavioural measurements and neuroimaging methods in adults and children with typical and atypical brain development.
 <br>
 
+Get to know Dr. Im more here!
+https://psych.ubc.ca/news/heeyeonim-qa/
+
 {% include section.html %}
 
 ### Academic Appointments
