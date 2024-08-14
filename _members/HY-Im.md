@@ -17,10 +17,19 @@ links:
 ---
 
 I am interested in neurocognitive processes underlying dynamic interactions between human visual perception and goal-directed action. Sometimes, visual perception and action can be arbitrarily linked based on what we have learned over and over again (e.g., seeing “red” from a traffic light, we “stop” and seeing “green,” we “keep moving”). However, some functional links between perception and action can be somewhat implicit (and automatic) and hard-wired. For example, seeing a group of people with angry faces is naturally associated with avoidance actions, whereas people with happy, friendly faces tend to motivate approach actions. My research investigates how different brain parts coordinate countless connections between perception and action to mediate safe and timely motor movements in various physical and social contexts. I am also interested in neurocognitive bases of deficient perception-action links in impaired visuomotor coordination skills (as observed in many visual or motor deficits) or maladaptive social behaviours (e.g., excessive avoidance behaviour, which is a hallmark of many emotional disorders). I use behavioural measurements and neuroimaging methods in adults and children with typical and atypical brain development.
-<br>
+<br> <br>
 
 Get to know Dr. Im more here!
-https://psych.ubc.ca/news/heeyeonim-qa/
+<div class="link-preview">
+    <a href="https://psych.ubc.ca/news/heeyeonim-qa/" target="_blank" style="text-decoration: none; color: inherit;">
+        <div style="border: 1px solid #ccc; padding: 10px; max-width: 400px;">
+            <img src="https://psych.ubc.ca/wp-content/uploads/sites/2/2024/08/Hee-Yeon-Im-300x169.png" alt="Dr.Im Q&A" style="width: 100%; height: auto;"/>
+            <h3 style="margin: 10px 0;">UBC Psychology welcomes cognitive scientist Dr. Hee-Yeon Im</h3>
+            <span style="font-size: 12px; color: #555;">psych.ubc.ca</span>
+        </div>
+    </a>
+</div>
+
 
 {% include section.html %}
 
