@@ -1,7 +1,7 @@
 ---
 name: Eddie Kim
 image: images/eddie-people.png
-role: RA
+role: Al
 group: Work-Learn Student
 description: Work-Learn Student   eddiek57@student.ubc.ca
 links:
