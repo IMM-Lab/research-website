@@ -2,7 +2,7 @@
 name: Akosua Asare
 image: images/akosua-people.jpg 
 role: GA 
-description: Graduate Student kesewah@student.ubc.ca
+description: PhD Candidate kesewah@student.ubc.ca
 group: Graduate Students
 links:
   email: kesewah@student.ubc.ca
