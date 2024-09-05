@@ -1,7 +1,7 @@
 ---
 name: Carolina Ricardo
 image: images/carolina-people.jpg
-role: RA
+role: Al
 group: Research Assistant  
 description: Research Assistant  carolina.sodre.ricardo@gmail.com
 links:
