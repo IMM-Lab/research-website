@@ -1,7 +1,7 @@
 ---
 name: Jolin Li
 image: images/jolin-people.jpeg
-role: RA
+role: Al
 group: Work-Learn Student 
 description: Work-Learn Student  jolinli2000@gmail.com
 links:
