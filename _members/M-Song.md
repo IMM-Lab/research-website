@@ -1,6 +1,6 @@
 ---
 name: Minsu Song
-image: images/icon.png
+image: images/minsu-people.jpg
 role: PD 
 description: Postdoctoral Researcher minsu.song@ubc.ca
 group: Postdoctoral Researcher
