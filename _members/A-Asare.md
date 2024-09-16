@@ -3,7 +3,7 @@ name: Akosua Asare
 image: images/akosua-people.jpg 
 role: GA 
 description: PhD Candidate kesewah@student.ubc.ca
-group: Graduate Students
+group: phd
 links:
   email: kesewah@student.ubc.ca
   google-scholar: UxYZtJMAAAAJ&hl
