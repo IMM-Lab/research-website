@@ -16,7 +16,8 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: PD" background="white" %}
 
 ## Graduate Students
-{% include list.html data="members" component="portrait" filters="role: GA" background="white" %}
+{% include list.html data="members" component="portrait" filters="role: GA, group:phd" background="white" %}
+{% include list.html data="members" component="portrait" filters="role: GA, group:msc" background="white" %}
 
 ## Research Assistants
 {% include list.html data="members" component="portrait" filters="role: RA, group: Research Technician" background="white" %}
