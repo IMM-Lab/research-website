@@ -3,7 +3,7 @@ name: Eddie Kim
 image: images/eddie-people.png
 role: Al
 group: Work-Learn Student
-description: Work-Learn Student   eddiek57@student.ubc.ca
+description: Work-Learn Student
 links:
   email: eddiek57@student.ubc.ca
 ---
