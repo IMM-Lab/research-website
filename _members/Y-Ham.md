@@ -3,7 +3,7 @@ name: Yoonsoo Ham
 image: images/Yoonsoo1-people.jpeg
 role: RA
 group: Work-Learn Student 
-description: Work-Learn Student  yoonsooham4@icloud.com
+description: Work-Learn Student
 links:
   email: yoonsooham4@icloud.com
 ---
