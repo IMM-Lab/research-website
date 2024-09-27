@@ -14,7 +14,7 @@ links:
 I am PhD Candidate in the Neuroscience Graduate Program. My research interests are in human motion and depth perception. I use a variety of psychophysical and neuroimaging techniques including functional MRI to understand how developmental visual disorders like amblyopia affect these visual functions. 
 
 {% include section.html %}
-### Education
+### Education 
 OD,  Kwame Nkrumah University of Science and Techniology, 2019
  
 ### Confrence Presentations
