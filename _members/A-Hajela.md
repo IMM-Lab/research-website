@@ -3,7 +3,7 @@ name: Adi Hajela
 image: images/Adi1-people.jpeg
 role: RA
 group: Co-op Student   
-description: Co-op Student  adi050317@gmail.com
+description: Co-op Student
 links:
   email: adi050317@gmail.com
 ---
