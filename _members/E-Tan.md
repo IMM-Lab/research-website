@@ -2,7 +2,7 @@
 name: Enda Tan
 image: images/enda-people.JPG
 role: PD 
-description: Postdoctoral Researcher enda.tan@psych.ubc.ca
+description: Postdoctoral Researcher
 group: Postdoctoral Researcher
 links:
   email: enda.tan@psych.ubc.ca
