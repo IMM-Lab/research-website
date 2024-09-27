@@ -3,7 +3,7 @@ name: Melissa Aziz
 image: images/melissa-people.jpg
 role: Al
 group: Research Assistant  
-description: Research Assistant  aziz082@student.ubc.ca
+description: Research Assistant 
 links:
   email: aziz082@student.ubc.ca
 ---
