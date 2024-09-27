@@ -3,7 +3,7 @@ name: Max Garson
 image: images/max-people.jpeg
 role: RA
 group: Work-Learn Student  
-description: Work-Learn Student  maxgarson@gmail.com
+description: Work-Learn Student
 links:
   email: maxgarson@gmail.com
 ---
