@@ -3,7 +3,7 @@ name: Lina Kim
 image: images/Lina-people.jpeg
 role: RA
 group: Research Assistant  
-description: Research Assistant  lnkim0914@gmail.com
+description: Research Assistant
 links:
   email: lnkim0914@gmail.com
 ---
