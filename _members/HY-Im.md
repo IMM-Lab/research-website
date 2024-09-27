@@ -8,7 +8,7 @@ aliases:
   - Im
   - Hee Yeon Im
 subtitle: Lab Director           
-description: IMM Lab   heeyeon.im@ubc.ca
+description: IMM Lab
 links:
   home-page: https://psych.ubc.ca/profile/hee-yeon-im/
   google-scholar: Zq3Z-ioAAAAJ
