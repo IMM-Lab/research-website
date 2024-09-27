@@ -3,7 +3,7 @@ name: Hayoung Cho
 image: images/hayoung-people.png
 role: RA
 group: Co-op Student
-description: Co-op Student  hayoungc@student.ubc.ca
+description: Co-op Student
 links:
   email: hayoungc@student.ubc.ca
 ---
