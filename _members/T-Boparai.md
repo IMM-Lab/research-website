@@ -1,9 +1,9 @@
 ---
 name: Tarini Boparai
 image: images/Tarini-people.jpg
-role: RA
+role: Al
 group: Research Assistant  
-description: Research Assistant  tarinib7@gmail.com
+description: Research Assistant
 links:
   email: tarinib7@gmail.com
 ---
