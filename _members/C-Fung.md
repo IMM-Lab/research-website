@@ -3,7 +3,7 @@ name: Constance Fung
 image: images/constance-people.jfif
 role: Al
 group: Research Assistant  
-description: Research Assistant confung2@student.ubc.ca
+description: Research Assistant
 links:
   email: confung2@student.ubc.ca
 ---
