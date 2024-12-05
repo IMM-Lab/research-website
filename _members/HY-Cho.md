@@ -1,7 +1,7 @@
 ---
 name: Hayoung Cho
 image: images/hayoung-people.png
-role: RA
+role: Al
 group: Co-op Student
 description: Co-op Student
 links:
